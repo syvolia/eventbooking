@@ -4,7 +4,7 @@
   "description": "React GraphQL event booking app",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "Nabendu Biswas",
   "license": "MIT",
@@ -17,7 +17,8 @@
     "express-graphql": "^0.9.0",
     "graphql": "^14.5.8",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.8.9"
+    "mongoose": "^5.8.9",
+    "pm2": "^4.2.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
