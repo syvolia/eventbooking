@@ -91,6 +91,8 @@ class AuthPage extends Component {
 
     render() {
         return (
+            <div className="bg-img">
+            
             <form className="auth-form" onSubmit={this.submitHandler}>
                 <div className="form-control">
                     <label htmlFor="email">E-Mail</label>
@@ -107,6 +109,7 @@ class AuthPage extends Component {
                     </button>
                 </div>
             </form>
+          </div>
         );
     }
 }

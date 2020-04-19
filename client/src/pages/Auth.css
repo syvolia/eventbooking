@@ -1,0 +1,21 @@
+.auth-form {
+  position: absolute;
+  right: 40%;
+  margin: 20px;
+  max-width: 300px;
+  padding: 16px;
+  background-color: white;
+  top:30%
+}
+.bg-img {
+  /* The image used */
+  background-image: url("../images/music.jpg");
+
+  min-height: 900px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}

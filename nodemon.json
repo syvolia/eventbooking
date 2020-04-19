@@ -1,9 +1,8 @@
 {
     "env": {
-        "MONGO_USER": "root",
-        "MONGO_PASSWORD": "STdmkMF4R0Vnfqi2",
+        "MONGO_USER": "syvolia",
+        "MONGO_PASSWORD": "ffnXBQSl2sn5jIZH",
         "MONGO_DB": "test",
-         "MONGO_URI": "mongodb+srv://root:STdmkMF4R0Vnfqi2@cluster0-qocko.mongodb.net/test?retryWrites=true&w=majority"
+         "MONGO_URI": "mongodb+srv://root:<password>@cluster0-bi4iq.mongodb.net/test?retryWrites=true&w=majority"
     }
 }
-
